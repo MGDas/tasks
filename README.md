@@ -1,1 +1,1 @@
-Task on python for my learning
+Tasks on python for my learning
